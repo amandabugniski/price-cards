@@ -1,0 +1,23 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IntelliJ / IDEs
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dependências, caso use Node algum dia
+node_modules/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Removendo configuração de idea
+.idea
